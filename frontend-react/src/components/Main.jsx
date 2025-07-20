@@ -17,7 +17,7 @@ const Main = () => {
             predictions to assist investors, researchers, and analysts in
             understanding market trends.
           </p>
-          <Button text="Login" class="btn-outline-info" />
+          <Button text="Explore Now" class="btn-info" url="/dashboard" />
         </div>
       </div>
     </>
